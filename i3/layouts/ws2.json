@@ -1,0 +1,15 @@
+{
+  "layout": "splith",
+  "nodes": [
+    {
+      "swallows": [
+        { "class": "^kitty$" }
+      ]
+    },
+    {
+      "swallows": [
+        { "class": "^kitty$" }
+      ]
+    }
+  ]
+}

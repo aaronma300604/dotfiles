@@ -1,0 +1,27 @@
+{
+  "layout": "splith",
+  "nodes": [
+    {
+      "layout": "splitv",
+      "percent": 0.25,
+      "nodes": [
+        {
+          "swallows": [
+            { "class": "^kitty$" }
+          ]
+        },
+        {
+          "swallows": [
+            { "class": "^kitty$" }
+          ]
+        }
+      ]
+    },
+    {
+      "percent": 0.75,
+      "swallows": [
+        { "class": "^code-oss$" }
+      ]
+    }
+  ]
+}
