@@ -27,4 +27,4 @@ i3-msg "workspace $WS; append_layout $LAYOUT"
 
 kitty --class pkmn -e bash -c "pokemon-colorscripts -s -rn umbreon,porygon2,haxorus,aegislash --no-title; exec bash" &
 kitty --class fexpl -e bash -c "yazi; exec bash" &
-code-oss &
+code &
