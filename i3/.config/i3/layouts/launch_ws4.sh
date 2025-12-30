@@ -21,6 +21,6 @@ touch "$FLAG"
 
 i3-msg "workspace $WS; append_layout $LAYOUT"
 
-kitty &
-kitty &
-kitty &
+kitty --class dysk -e bash -c "dysk; exec bash" &
+kitty --class fetch -e bash -c "fastfetch; exec bash" &
+kitty --class astro -e bash -c "astroterm --color --constellations --speed 2000 --fps 64 --city Singapore; exec bash" &

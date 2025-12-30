@@ -5,3 +5,8 @@ deps = []
 use = "AdithyanA2005/nord"
 rev = "3a791e9"
 hash = "fa7142cda74a50b271ea212356b40b57"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:dracula"
+rev = "9276ffa"
+hash = "5d16bf24ca0980168814fc1abd307c07"

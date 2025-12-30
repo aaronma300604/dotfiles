@@ -7,12 +7,12 @@
       "nodes": [
         {
           "swallows": [
-            { "class": "^kitty$" }
+            { "class": "^pkmn$" }
           ]
         },
         {
           "swallows": [
-            { "class": "^kitty$" }
+            { "class": "^fexpl$" }
           ]
         }
       ]
